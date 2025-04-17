@@ -1,1 +1,1 @@
-# flops-zoomcamp
+# mlops-zoomcamp
